@@ -5,6 +5,7 @@
 import cv2
 import sys
 import numpy as np
+import matplotlib.backends.backend_tkagg
 from matplotlib import pyplot as plt
 
 args = sys.argv
